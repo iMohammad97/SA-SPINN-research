@@ -78,3 +78,7 @@ Each folder is `runs/s<step>_<what>/`. The final models and the tests behind the
 | `s3_gum`, `s5_*`, `s6_*`, `s7_*`, `s9_*` | uncertainty budget, fusion rules, training methods, coupling |
 | `s1_*`, `s2_*`, `s4_*` | earlier design runs |
 | `s8_xjtu`, `s8_tju` | other published splits, not used in the reported results |
+
+## License
+
+MIT, see `LICENSE`.
