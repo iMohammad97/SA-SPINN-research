@@ -1,0 +1,1 @@
+{"batch": 6, "grouping": "sensor", "fusion": "log_mean", "physics": "learned", "corrupt": "input", "alpha": 0.001, "seed": 1, "epochs": 100, "id": "b6_sensor_log_mean_learned_a0.001_s1_input", "dir": "runs\\step2", "test_soh_rmse": 0.009609895758330822, "test_soc_rmse": 0.014755578711628914, "epochs_ran": 100, "time_s": 414.3269431591034, "params": 4832}

@@ -1,0 +1,10 @@
+9 runs -> runs\s11_tju_nopen  (monitor: python src/monitor.py runs\s11_tju_nopen)
+done b1_sensor_log_attention_gray_a0.001_s2_relT: SOH 0.78%  SOC 1.91%
+done b1_sensor_log_attention_gray_a0.001_s3_relT: SOH 0.67%  SOC 1.64%
+done b1_sensor_log_attention_gray_a0.001_s4_relT: SOH 0.77%  SOC 1.70%
+done b2_sensor_log_attention_gray_a0.001_s2_relT: SOH 0.81%  SOC 0.85%
+done b2_sensor_log_attention_gray_a0.001_s3_relT: SOH 0.77%  SOC 0.83%
+done b2_sensor_log_attention_gray_a0.001_s4_relT: SOH 0.78%  SOC 0.85%
+done b3_sensor_log_attention_gray_a0.001_s2_relT: SOH 0.86%  SOC 1.54%
+done b3_sensor_log_attention_gray_a0.001_s3_relT: SOH 0.79%  SOC 1.16%
+done b3_sensor_log_attention_gray_a0.001_s4_relT: SOH 1.03%  SOC 1.29%

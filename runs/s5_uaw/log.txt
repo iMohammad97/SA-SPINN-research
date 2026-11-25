@@ -1,0 +1,13 @@
+12 runs -> runs\s5_uaw  (monitor: python src/monitor.py runs\s5_uaw)
+done b1_sensor_log_uaw_gray_a0.001_s0_relT: SOH 0.81%  SOC 1.22%
+done b1_sensor_log_uaw_gray_a0.001_s1_relT: SOH 1.16%  SOC 1.24%
+done b2_sensor_log_uaw_gray_a0.001_s0_relT: SOH 0.89%  SOC 0.80%
+done b2_sensor_log_uaw_gray_a0.001_s1_relT: SOH 1.30%  SOC 0.80%
+done b3_sensor_log_uaw_gray_a0.001_s0_relT: SOH 1.62%  SOC 0.69%
+done b3_sensor_log_uaw_gray_a0.001_s1_relT: SOH 0.75%  SOC 0.88%
+done b4_sensor_log_uaw_gray_a0.001_s0_relT: SOH 1.58%  SOC 2.58%
+done b4_sensor_log_uaw_gray_a0.001_s1_relT: SOH 1.06%  SOC 1.49%
+done b5_sensor_log_uaw_gray_a0.001_s0_relT: SOH 0.60%  SOC 1.94%
+done b5_sensor_log_uaw_gray_a0.001_s1_relT: SOH 0.83%  SOC 2.07%
+done b6_sensor_log_uaw_gray_a0.001_s0_relT: SOH 1.57%  SOC 1.64%
+done b6_sensor_log_uaw_gray_a0.001_s1_relT: SOH 1.39%  SOC 1.47%

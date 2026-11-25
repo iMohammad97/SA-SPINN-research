@@ -1,0 +1,1 @@
+{"batch": 1, "grouping": "sensor", "fusion": "log_choquet", "physics": "gray", "alpha": 0.001, "seed": 0, "epochs": 100, "id": "b1_sensor_log_choquet_gray_a0.001_s0", "dir": "runs\\c5pilot", "test_soh_rmse": 0.008052730932831764, "test_soc_rmse": 0.009360305964946747, "epochs_ran": 62, "time_s": 352.0196759700775, "params": 4832}

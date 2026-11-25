@@ -1,0 +1,1 @@
+[{"op": "nopen", "batch": 2, "seed": 2, "mode": "full", "isolate": {"drift_V": 0.0, "drift_I": 0.6666666666666666, "step_gain": 0.5, "stuck_T": 1.0}}]

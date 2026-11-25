@@ -1,0 +1,13 @@
+12 runs -> runs\s7_coupling  (monitor: python src/monitor.py runs\s7_coupling)
+done ours_oneway_b1_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.47%  SOC 1.58%
+done ours_oneway_b1_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.13%  SOC 2.13%
+done ours_none_b1_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.51%  SOC 1.85%
+done ours_none_b1_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.14%  SOC 2.47%
+done ours_oneway_b2_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.07%  SOC 1.03%
+done ours_oneway_b2_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.12%  SOC 1.03%
+done ours_none_b2_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.08%  SOC 1.76%
+done ours_none_b2_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.08%  SOC 1.74%
+done ours_oneway_b3_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 0.91%  SOC 1.72%
+done ours_oneway_b3_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 0.92%  SOC 1.76%
+done ours_none_b3_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.07%  SOC 3.69%
+done ours_none_b3_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 0.97%  SOC 3.50%

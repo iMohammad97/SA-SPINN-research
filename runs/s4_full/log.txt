@@ -1,0 +1,13 @@
+12 jobs -> runs\s4_full
+done b1_s0 (731s)
+done b1_s1 (726s)
+done b2_s0 (588s)
+done b2_s1 (590s)
+done b3_s0 (918s)
+done b3_s1 (913s)
+done b4_s0 (1133s)
+done b4_s1 (1133s)
+done b5_s0 (386s)
+done b5_s1 (386s)
+done b6_s0 (1233s)
+done b6_s1 (1232s)

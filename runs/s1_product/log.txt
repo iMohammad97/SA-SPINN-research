@@ -1,0 +1,13 @@
+12 runs -> runs\step1b  (monitor: python src/monitor.py runs\step1b)
+done b1_sensor_product_gray_a0.001_s0: SOH 0.84%  SOC 0.99%
+done b1_sensor_product_gray_a0.001_s1: SOH 0.81%  SOC 0.82%
+done b2_sensor_product_gray_a0.001_s0: SOH 1.11%  SOC 0.75%
+done b2_sensor_product_gray_a0.001_s1: SOH 1.10%  SOC 0.64%
+done b3_sensor_product_gray_a0.001_s0: SOH 0.92%  SOC 0.72%
+done b3_sensor_product_gray_a0.001_s1: SOH 0.61%  SOC 0.66%
+done b4_sensor_product_gray_a0.001_s0: SOH 0.96%  SOC 0.99%
+done b4_sensor_product_gray_a0.001_s1: SOH 1.12%  SOC 1.42%
+done b5_sensor_product_gray_a0.001_s0: SOH 1.09%  SOC 1.91%
+done b5_sensor_product_gray_a0.001_s1: SOH 0.94%  SOC 2.01%
+done b6_sensor_product_gray_a0.001_s0: SOH 1.51%  SOC 1.59%
+done b6_sensor_product_gray_a0.001_s1: SOH 0.89%  SOC 1.34%

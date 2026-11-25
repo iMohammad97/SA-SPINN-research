@@ -1,0 +1,1 @@
+[{"op": "stat_pen10", "batch": 6, "seed": 3, "mode": "full", "isolate": {"drift_V": 0.375, "drift_I": 0.3333333432674408, "step_gain": 0.4583333358168602, "stuck_T": 0.3333333432674408}}]

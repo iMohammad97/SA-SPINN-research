@@ -1,0 +1,25 @@
+24 runs -> runs\s2_coupling  (monitor: python src/monitor.py runs\s2_coupling)
+done ours_oneway_b1_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 0.97%  SOC 1.13%
+done ours_oneway_b1_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.22%  SOC 1.09%
+done ours_none_b1_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 0.98%  SOC 1.65%
+done ours_none_b1_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 0.96%  SOC 1.74%
+done ours_oneway_b2_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.01%  SOC 0.83%
+done ours_oneway_b2_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.06%  SOC 0.77%
+done ours_none_b2_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.02%  SOC 1.41%
+done ours_none_b2_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.05%  SOC 1.28%
+done ours_oneway_b3_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.23%  SOC 0.69%
+done ours_oneway_b3_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 0.98%  SOC 1.13%
+done ours_none_b3_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.32%  SOC 1.03%
+done ours_none_b3_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.10%  SOC 1.35%
+done ours_oneway_b4_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.17%  SOC 1.39%
+done ours_oneway_b4_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.13%  SOC 1.38%
+done ours_none_b4_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.23%  SOC 2.24%
+done ours_none_b4_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.12%  SOC 2.23%
+done ours_oneway_b5_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.53%  SOC 3.01%
+done ours_oneway_b5_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.22%  SOC 1.90%
+done ours_none_b5_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.30%  SOC 2.98%
+done ours_none_b5_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.23%  SOC 2.28%
+done ours_oneway_b6_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.93%  SOC 1.53%
+done ours_oneway_b6_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.80%  SOC 1.66%
+done ours_none_b6_sensor_log_mean_gray_a0.001_s0_relT_rpt50: SOH 1.86%  SOC 2.54%
+done ours_none_b6_sensor_log_mean_gray_a0.001_s1_relT_rpt50: SOH 1.85%  SOC 2.36%

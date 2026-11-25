@@ -1,0 +1,1 @@
+{"batch": 6, "grouping": "statistic", "fusion": "mean", "physics": "gray", "alpha": 0.001, "seed": 1, "epochs": 100, "id": "b6_statistic_mean_gray_a0.001_s1", "dir": "runs\\step1", "test_soh_rmse": 0.014472031965851784, "test_soc_rmse": 0.01724710874259472, "epochs_ran": 78, "time_s": 316.59891963005066, "params": 5682}

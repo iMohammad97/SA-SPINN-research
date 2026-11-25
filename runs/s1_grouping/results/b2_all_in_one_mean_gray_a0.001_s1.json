@@ -1,0 +1,1 @@
+{"batch": 2, "grouping": "all_in_one", "fusion": "mean", "physics": "gray", "alpha": 0.001, "seed": 1, "epochs": 100, "id": "b2_all_in_one_mean_gray_a0.001_s1", "dir": "runs\\step1", "test_soh_rmse": 0.012231060303747654, "test_soc_rmse": 0.007273143623024225, "epochs_ran": 87, "time_s": 186.36759185791016, "params": 2282}

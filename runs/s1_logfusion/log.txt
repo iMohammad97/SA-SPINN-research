@@ -1,0 +1,19 @@
+18 runs -> runs\c5pilot  (monitor: python src/monitor.py runs\c5pilot)
+done b1_sensor_log_mean_gray_a0.001_s0: SOH 0.83%  SOC 0.87%
+done b1_sensor_log_owa_gray_a0.001_s0: SOH 0.81%  SOC 0.93%
+done b1_sensor_log_choquet_gray_a0.001_s0: SOH 0.81%  SOC 0.94%
+done b1_sensor_log_trim_gray_a0.001_s0: SOH 0.70%  SOC 0.87%
+done b1_sensor_log_wmean_gray_a0.001_s0: SOH 0.81%  SOC 0.84%
+done b1_sensor_log_attention_gray_a0.001_s0: SOH 0.73%  SOC 0.93%
+done b4_sensor_log_mean_gray_a0.001_s0: SOH 1.28%  SOC 1.33%
+done b4_sensor_log_owa_gray_a0.001_s0: SOH 1.53%  SOC 1.44%
+done b4_sensor_log_choquet_gray_a0.001_s0: SOH 1.37%  SOC 1.35%
+done b4_sensor_log_trim_gray_a0.001_s0: SOH 1.19%  SOC 1.41%
+done b4_sensor_log_wmean_gray_a0.001_s0: SOH 1.22%  SOC 1.31%
+done b4_sensor_log_attention_gray_a0.001_s0: SOH 1.04%  SOC 1.23%
+done b5_sensor_log_mean_gray_a0.001_s0: SOH 0.81%  SOC 1.84%
+done b5_sensor_log_owa_gray_a0.001_s0: SOH 0.82%  SOC 1.83%
+done b5_sensor_log_choquet_gray_a0.001_s0: SOH 0.85%  SOC 1.84%
+done b5_sensor_log_trim_gray_a0.001_s0: SOH 1.01%  SOC 1.80%
+done b5_sensor_log_wmean_gray_a0.001_s0: SOH 0.81%  SOC 1.86%
+done b5_sensor_log_attention_gray_a0.001_s0: SOH 0.67%  SOC 1.69%

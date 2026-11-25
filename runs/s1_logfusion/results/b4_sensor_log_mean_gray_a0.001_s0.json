@@ -1,0 +1,1 @@
+{"batch": 4, "grouping": "sensor", "fusion": "log_mean", "physics": "gray", "alpha": 0.001, "seed": 0, "epochs": 100, "id": "b4_sensor_log_mean_gray_a0.001_s0", "dir": "runs\\c5pilot", "test_soh_rmse": 0.012787094339728355, "test_soc_rmse": 0.013256450183689594, "epochs_ran": 65, "time_s": 297.0255036354065, "params": 4832}

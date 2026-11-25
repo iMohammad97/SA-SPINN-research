@@ -1,0 +1,1 @@
+{"batch": 2, "grouping": "sensor", "fusion": "log_choquet", "physics": "gray", "alpha": 0.001, "seed": 1, "epochs": 100, "corrupt": "none", "labels": "all", "id": "b2_sensor_log_choquet_gray_a0.001_s1", "dir": "runs\\step4", "test_soh_rmse": 0.009753422811627388, "test_soc_rmse": 0.006649800576269627, "epochs_ran": 84, "time_s": 619.2117536067963, "params": 4832}

@@ -1,0 +1,1 @@
+{"batch": 3, "grouping": "sensor", "fusion": "log_trim", "physics": "gray", "alpha": 0.001, "seed": 0, "epochs": 100, "corrupt": "none", "labels": "all", "id": "b3_sensor_log_trim_gray_a0.001_s0", "dir": "runs\\step4", "test_soh_rmse": 0.0087148891761899, "test_soc_rmse": 0.008984765037894249, "epochs_ran": 53, "time_s": 331.62441205978394, "params": 4832}

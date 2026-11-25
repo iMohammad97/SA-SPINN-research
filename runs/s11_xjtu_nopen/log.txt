@@ -1,0 +1,19 @@
+18 runs -> runs\s11_xjtu_nopen  (monitor: python src/monitor.py runs\s11_xjtu_nopen)
+done b1_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 0.94%  SOC 1.52%
+done b1_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 0.90%  SOC 1.00%
+done b1_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 1.04%  SOC 1.02%
+done b2_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 0.95%  SOC 0.70%
+done b2_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 1.06%  SOC 0.66%
+done b2_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 1.25%  SOC 1.16%
+done b3_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 0.65%  SOC 1.18%
+done b3_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 0.57%  SOC 0.94%
+done b3_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 0.81%  SOC 1.02%
+done b4_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 1.08%  SOC 1.54%
+done b4_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 1.04%  SOC 1.10%
+done b4_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 1.19%  SOC 1.21%
+done b5_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 0.98%  SOC 1.73%
+done b5_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 0.80%  SOC 1.54%
+done b5_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 1.05%  SOC 1.72%
+done b6_sensor_log_attention_gray_a0.001_s2_g0.3_relT: SOH 1.00%  SOC 1.18%
+done b6_sensor_log_attention_gray_a0.001_s3_g0.3_relT: SOH 1.02%  SOC 1.10%
+done b6_sensor_log_attention_gray_a0.001_s4_g0.3_relT: SOH 1.40%  SOC 1.18%

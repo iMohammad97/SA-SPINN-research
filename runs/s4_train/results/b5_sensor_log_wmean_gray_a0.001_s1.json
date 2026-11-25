@@ -1,0 +1,1 @@
+{"batch": 5, "grouping": "sensor", "fusion": "log_wmean", "physics": "gray", "alpha": 0.001, "seed": 1, "epochs": 100, "corrupt": "none", "labels": "all", "id": "b5_sensor_log_wmean_gray_a0.001_s1", "dir": "runs\\step4", "test_soh_rmse": 0.007460968103259802, "test_soc_rmse": 0.0177772156894207, "epochs_ran": 49, "time_s": 284.64630365371704, "params": 4832}

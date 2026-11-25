@@ -1,0 +1,19 @@
+18 runs -> runs\s7_physics  (monitor: python src/monitor.py runs\s7_physics)
+done b1_sensor_log_mean_cc_a0.1_s0_relT_full: SOH 1.81%  SOC 3.63%
+done b1_sensor_log_mean_cc_a0.1_s1_relT_full: SOH 1.58%  SOC 3.77%
+done b1_sensor_log_mean_gray_a0.1_s0_relT_full: SOH 4.30%  SOC 44.46%
+done b1_sensor_log_mean_gray_a0.1_s1_relT_full: SOH 2.41%  SOC 40.83%
+done b1_sensor_log_mean_learned_a0.1_s0_relT_full: SOH 4.33%  SOC 53.12%
+done b1_sensor_log_mean_learned_a0.1_s1_relT_full: SOH 2.38%  SOC 41.39%
+done b2_sensor_log_mean_cc_a0.1_s0_relT_full: SOH 1.18%  SOC 1.48%
+done b2_sensor_log_mean_cc_a0.1_s1_relT_full: SOH 1.32%  SOC 1.65%
+done b2_sensor_log_mean_gray_a0.1_s0_relT_full: SOH 3.48%  SOC 44.82%
+done b2_sensor_log_mean_gray_a0.1_s1_relT_full: SOH 1.61%  SOC 42.69%
+done b2_sensor_log_mean_learned_a0.1_s0_relT_full: SOH 1.64%  SOC 54.11%
+done b2_sensor_log_mean_learned_a0.1_s1_relT_full: SOH 1.61%  SOC 43.06%
+done b3_sensor_log_mean_cc_a0.1_s0_relT_full: SOH 0.91%  SOC 4.98%
+done b3_sensor_log_mean_cc_a0.1_s1_relT_full: SOH 1.50%  SOC 3.72%
+done b3_sensor_log_mean_gray_a0.1_s0_relT_full: SOH 2.65%  SOC 45.49%
+done b3_sensor_log_mean_gray_a0.1_s1_relT_full: SOH 2.38%  SOC 44.71%
+done b3_sensor_log_mean_learned_a0.1_s0_relT_full: SOH 0.92%  SOC 49.10%
+done b3_sensor_log_mean_learned_a0.1_s1_relT_full: SOH 0.97%  SOC 45.36%

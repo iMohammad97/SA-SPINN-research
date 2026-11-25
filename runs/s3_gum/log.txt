@@ -1,0 +1,13 @@
+12 jobs -> runs\gum
+b1_s0: u_SOH MC 0.895 lin 0.444 pp | u_SOC MC 0.308 lin 0.299 pp  (300s)
+b1_s1: u_SOH MC 0.249 lin 0.280 pp | u_SOC MC 0.331 lin 0.325 pp  (299s)
+b2_s0: u_SOH MC 2.060 lin 0.385 pp | u_SOC MC 0.570 lin 0.229 pp  (257s)
+b2_s1: u_SOH MC 0.521 lin 0.642 pp | u_SOC MC 0.249 lin 0.258 pp  (256s)
+b3_s0: u_SOH MC 1.404 lin 1.331 pp | u_SOC MC 0.501 lin 0.519 pp  (410s)
+b3_s1: u_SOH MC 0.504 lin 0.967 pp | u_SOC MC 0.349 lin 0.397 pp  (409s)
+b4_s0: u_SOH MC 1.074 lin 0.514 pp | u_SOC MC 0.446 lin 0.375 pp  (501s)
+b4_s1: u_SOH MC 0.304 lin 0.395 pp | u_SOC MC 0.371 lin 0.377 pp  (501s)
+b5_s0: u_SOH MC 0.521 lin 0.414 pp | u_SOC MC 0.475 lin 0.478 pp  (167s)
+b5_s1: u_SOH MC 0.161 lin 0.171 pp | u_SOC MC 0.457 lin 0.448 pp  (167s)
+b6_s0: u_SOH MC 0.847 lin 0.598 pp | u_SOC MC 0.550 lin 0.518 pp  (522s)
+b6_s1: u_SOH MC 0.255 lin 0.504 pp | u_SOC MC 0.431 lin 0.456 pp  (522s)

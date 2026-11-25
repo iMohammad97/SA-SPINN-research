@@ -1,0 +1,13 @@
+12 jobs -> runs\s4_swap
+done b1_s0 (1017s)
+done b1_s1 (1017s)
+done b2_s0 (840s)
+done b2_s1 (843s)
+done b3_s0 (1264s)
+done b3_s1 (1269s)
+done b4_s0 (1575s)
+done b4_s1 (1578s)
+done b5_s0 (575s)
+done b5_s1 (577s)
+done b6_s0 (1723s)
+done b6_s1 (1720s)

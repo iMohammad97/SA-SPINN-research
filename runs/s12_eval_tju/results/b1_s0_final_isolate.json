@@ -1,0 +1,1 @@
+[{"op": "final", "batch": 1, "seed": 0, "mode": "full", "isolate": {"drift_V": 0.38461538461538464, "drift_I": 0.7307692307692307, "step_gain": 0.6538461538461539}}]

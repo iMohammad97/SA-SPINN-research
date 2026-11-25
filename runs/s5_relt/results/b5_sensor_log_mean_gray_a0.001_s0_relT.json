@@ -1,0 +1,1 @@
+{"batch": 5, "grouping": "sensor", "fusion": "log_mean", "physics": "gray", "relt": true, "alpha": 0.001, "seed": 0, "epochs": 100, "corrupt": "none", "labels": "all", "id": "b5_sensor_log_mean_gray_a0.001_s0_relT", "dir": "runs\\s5_relt", "test_soh_rmse": 0.0076670474372804165, "test_soc_rmse": 0.0196906179189682, "epochs_ran": 63, "time_s": 314.6150336265564, "params": 4832}

@@ -1,0 +1,1 @@
+{"batch": 3, "grouping": "sensor", "fusion": "product", "physics": "gray", "alpha": 0.001, "seed": 0, "epochs": 100, "id": "b3_sensor_product_gray_a0.001_s0", "dir": "runs\\step1b", "test_soh_rmse": 0.00918217096477747, "test_soc_rmse": 0.007168619893491268, "epochs_ran": 44, "time_s": 184.14105701446533, "params": 4832}

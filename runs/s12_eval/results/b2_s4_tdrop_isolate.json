@@ -1,0 +1,1 @@
+[{"op": "tdrop", "batch": 2, "seed": 4, "mode": "full", "isolate": {"drift_V": 0.3333333333333333, "drift_I": 0.5, "step_gain": 0.16666666666666666, "stuck_T": 0.6666666666666666}}]

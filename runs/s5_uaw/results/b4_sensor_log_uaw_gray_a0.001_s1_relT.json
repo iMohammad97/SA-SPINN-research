@@ -1,0 +1,1 @@
+{"batch": 4, "grouping": "sensor", "fusion": "log_uaw", "physics": "gray", "relt": true, "alpha": 0.001, "seed": 1, "epochs": 100, "corrupt": "none", "labels": "all", "id": "b4_sensor_log_uaw_gray_a0.001_s1_relT", "dir": "runs\\s5_uaw", "test_soh_rmse": 0.010566426441073418, "test_soc_rmse": 0.01487052347511053, "epochs_ran": 39, "time_s": 1001.196430683136, "params": 4896}

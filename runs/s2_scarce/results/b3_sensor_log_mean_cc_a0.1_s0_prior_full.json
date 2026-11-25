@@ -1,0 +1,1 @@
+{"batch": 3, "grouping": "sensor", "fusion": "log_mean", "physics": "cc", "corrupt": "prior", "labels": "full", "alpha": 0.1, "seed": 0, "epochs": 100, "id": "b3_sensor_log_mean_cc_a0.1_s0_prior_full", "dir": "runs\\step2b", "test_soh_rmse": 0.017074594274163246, "test_soc_rmse": 0.01698482595384121, "epochs_ran": 42, "time_s": 277.18292784690857, "params": 4832}

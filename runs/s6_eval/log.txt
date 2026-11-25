@@ -1,0 +1,13 @@
+12 jobs -> runs\s6_eval
+done b1_s0 (519s)
+done b1_s1 (524s)
+done b2_s0 (429s)
+done b2_s1 (427s)
+done b3_s0 (689s)
+done b3_s1 (692s)
+done b4_s0 (831s)
+done b4_s1 (829s)
+done b5_s0 (285s)
+done b5_s1 (288s)
+done b6_s0 (884s)
+done b6_s1 (883s)

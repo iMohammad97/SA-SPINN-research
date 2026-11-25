@@ -1,0 +1,7 @@
+6 runs -> runs\s7_fpen  (monitor: python src/monitor.py runs\s7_fpen)
+done b1_sensor_log_mean_gray_a0.1_s0_F1_relT_full: SOH 1.81%  SOC 3.68%
+done b1_sensor_log_mean_gray_a0.1_s1_F1_relT_full: SOH 1.58%  SOC 4.04%
+done b2_sensor_log_mean_gray_a0.1_s0_F1_relT_full: SOH 1.21%  SOC 1.69%
+done b2_sensor_log_mean_gray_a0.1_s1_F1_relT_full: SOH 1.30%  SOC 1.62%
+done b3_sensor_log_mean_gray_a0.1_s0_F1_relT_full: SOH 0.88%  SOC 4.33%
+done b3_sensor_log_mean_gray_a0.1_s1_F1_relT_full: SOH 1.37%  SOC 5.57%

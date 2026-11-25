@@ -1,0 +1,1 @@
+{"id": "b3_sensor_log_mean_learned_a0.001_s1_input", "epoch": 100, "epochs": 100, "elapsed": 517.3236863613129, "val_soh": 0.01027358416467905, "val_soc": 0.008255749009549618, "done": true}

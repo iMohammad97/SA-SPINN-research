@@ -1,0 +1,1 @@
+{"batch": 4, "grouping": "sensor", "fusion": "log_mean", "physics": "gray", "corrupt": "none", "labels": "frac1", "lamf": 0.01, "alpha": 0.1, "seed": 0, "epochs": 100, "id": "b4_sensor_log_mean_gray_a0.1_s0_F0.01_frac1", "dir": "runs\\step2c", "test_soh_rmse": 0.01181400753557682, "test_soc_rmse": 0.01973293162882328, "epochs_ran": 96, "time_s": 683.9192078113556, "params": 4832}
